@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Refactory_tes</string>
+    <string name="Btnreverse">Reverse</string>
+    <string name="btnunred">Undo/Redo</string>
+</resources>
